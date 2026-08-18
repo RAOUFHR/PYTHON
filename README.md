@@ -9,11 +9,6 @@ Communication industrielle
 Interfaces graphiques
 
 # Bibliothèques à installer avant de commencer :
-
-# bash
 pip install pandas numpy pyserial streamlit
 
 
-Haroun Abderraouf
-haroun.abderraouf@gmail.com
-France
