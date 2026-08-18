@@ -1,6 +1,6 @@
 # Formation Python
 
-Dans cette formation, vous allez apprendre les bases de Python en tant qu'ingénieur automaticien, roboticien, ou même électricien. C'est un outil très puissant qui vous aide dans plusieurs domaines :
+Dans cette formation, vous allez apprendre les bases de Python en tant qu'ingénieur automaticien, roboticien, ou même électricien. C'est un outil très puissant qui vous aide.
 
 # Fonctions
 
