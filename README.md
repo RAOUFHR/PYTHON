@@ -1,2 +1,19 @@
-# PYTHON
-# haroun abderraouf 1
+# Formation Python
+
+Dans cette formation, vous allez apprendre les bases de Python en tant qu'ingénieur automaticien, roboticien, ou même électricien. C'est un outil très puissant qui vous aide dans plusieurs domaines :
+
+# Fonctions
+
+Outils industriels
+Communication industrielle
+Interfaces graphiques
+
+# Bibliothèques à installer avant de commencer :
+
+# bash
+pip install pandas numpy pyserial streamlit
+
+
+Haroun Abderraouf
+haroun.abderraouf@gmail.com
+France
